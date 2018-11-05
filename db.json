@@ -1,0 +1,5 @@
+{
+  "pembeli":[
+      {"id_pembelian": "beli16", "id_pembeli": "pemb11", "tanggal_beli": "2016-10-27", "total_harga": "500000","id_tiket": "tiket11"}
+     ]
+}
