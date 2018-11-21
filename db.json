@@ -2,19 +2,26 @@
   "tempat_wisata_malang":[
       {"id":1,
        "nama": "Dino Park Jawa Timur Park 3", 
-       "dekripsi": "dino-park-jawa-timur-park-3", 
+       "dekripsi": "dino-park-jawa-timur-park-3",
+       "detail":"<p>Jatim Park 3 berada di desa Beji, Kecamatan Junrejo, Kota Batu dan jangan bingung mencarinya karena lokasinya sangat mudah ditemukan karena tepat berada di kiri jalan raya utama jika kalian dari arah Kota Malang. Jatim Park 3 akan menjadi taman bermain sekaligus edukasi mengenai hewan-hewan purbakala termasuk Dinosaurus. Bukan hanya replika dino saja, namun wisatawan juga bisa menjelajahi 5 era yang dihadirkan oleh Jawa Timur Park 3. Disini pengunjung akan dipertunjukkan kehidupan dari masa Dinosaurus, mulai awal peradaban sampai masa setelah kepunahan. Para anak-anak, remaja hingga dewasa akan disuguhkan pengetahuan bahwasanya dinosaurus di bumi yang berada sekitar 200 juta tahun lalu terbagi menjadi 5 jaman, yakni Zaman Permian, Triassic, Jurassic, Cretaceous dan Zaman Ice Age yang menjadi zaman terakhir dinosaurus tidak dapat bertahan hidup di suhu dingin yang ekstrim.</p><p>Selain objek wisata Dino Park (Museum Dino, The Rimba, 5 Zaman, Live with Dino), Jawa Timur Park 3 menghadirkan wahana lain diantaranya Jembatan Akar, Jurassic Action, 6D Animasi, Ice Age dan replika dinosaurus yang dapat bergerak dan bersuara. Lelah menjelajahi Jatim Park Tiga, tentu akan haus dan lapar tapi para wisatawan tidak peru khawatir karena pihak Taman Wisata Dinosaurus di Malang ini memiliki food court yang menyajikan aneka masakan tradisional, eropa, jajanan ringan dan minuman segar. Adapun Galeri Musik Dunia dan Fun Tech Plaza yang menawarkan puluhan permainan dengan teknologi tinggi. Sayangnya masih banyak wahana yang belum dibuka dna masih tahap pembangunan diantaranya The Legend, Virtual Arena, House Zombie, Fun Rider, Dino Bazaar dan masih banyak lagi yang diperkirakan akan selesai pada pertengahan tahun 2018 mendatang.</p>",
        "harga_tiket": "72.500",
-       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/dino-park.jpg-960x720-FIT-92ce90db93687855900aeca2c88f15d1.jpeg"},
+       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/dino-park.jpg-960x720-FIT-92ce90db93687855900aeca2c88f15d1.jpeg",
+       "img1":"https://www.malang-guidance.com/wp-content/uploads/2017/12/Dino-Park-JP-3.jpg"},
      {"id":2,
        "nama": "Jatim Park 2", 
-       "dekripsi": "Jatim Park 2", 
+       "dekripsi": "Jatim Park 2",
+       "detail": "<p>Jatim Park 2 adalah tempat wisata di Malang yang wajib dikunjungi bagi Anda pecinta binatang/hewan. Sedikit berbeda dengan Jatim Park 1, Jatim Park 2 akan mengajak Anda kembali ke alam. Di sini terdapat 3 tempat yang seru, seperti Museum Satwa, Pohon Inn Hotel, dan Batu Secret Zoo.</p><p> Bagi Anda pecinta binatang, Museum Satwa adalah tempat yang wajib dikunjungi. Hanya dengan membayar tiket sebesar Rp 20 ribu, Anda sudah bisa menyaksikan replika satwa purba, seperti Tyrannosaurus-Rex, Stegosaurus, Mammoth, dan masih banyak lagi yang lainnya.</p> <p>Jika ingin menikmati kawasan ini lebih lama lagi, Anda bisa menginap di Pohon Inn Hotel. Uniknya, hotel ini berdesain layaknya pohon sungguhan. Bagi yang ingin bermalam di sini, Anda bisa menyewa kamar dengan harga mulai dari Rp 440 ribu hingga Rp 1,4 juta per malamnya.</p> <p>Sensasi menginap di dalam pohon bisa Anda rasakan di sini. Selain itu, tidak jauh dari Pohon Inn Hotel, ada Batu Secret Zoo. Kebun binatang bergaya modern ini memiliki koleksi satwa yang cukup beragam. Image kebun binatang yang terkesan tidak terurus di Indonesia akan sirna kalau Anda sudah pernah ke Batu Secret Zoo.</p> <p>Di kebun binatang ini Anda bisa melihat berbagai koleksi binatang yang langsung didatangkan dari berbagai benua seperti Amerika dan Afrika. Konsep yang terorganisir membuat pengunjung bisa dengan mudah melihat semua koleksi binatang secara keseluruhan.</p> <p>Batu Secret Zoo yang diresmikan pada tahun 2010 ini berada pada luas area 14 hektar memang sangat cocok dikunjungi jika Anda sedang liburan ke Malang baik bersama anak, keluarga atau pun teman-teman. Untuk harga tiket masuk ke kebun binatang ini seharga Rp.75.000 (Senin-Kamis) dan Rp.105.000 (Sabtu-Minggu).</p>",
        "harga_tiket": "72.500",
-       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/jatim-park-2.jpg-960x720-FIT-fd347b03aa76442cf23bf3b1547d5d37.jpeg"},
-    {"id":2,
+       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/jatim-park-2.jpg-960x720-FIT-fd347b03aa76442cf23bf3b1547d5d37.jpeg",
+      "img1":""},
+    {"id":3,
        "nama": "Museum Angkut", 
        "dekripsi": "Museum Angkut", 
-       "harga_tiket": "72.500",
-       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/museum-angkut.jpg-960x720-FIT-279aa5f7e54695814ef6cbef652183bc.jpeg"}
+       "detail": "<p>Siapa bilang berkunjung ke museum itu membosankan? Coba deh Anda datang ke Museum Angkut, maka kejenuhan Anda akan museum langsung akan segera sirna. Tempat wisata Batu Malang terbaru ini memiliki konsep yang berbeda jika dibandingkan dengan museum yang ada pada umumnya.</p> <p>Jika museum lain menawarkan benda-benda bersejarah seperti bebatuan zaman purbakala, alat makan zaman dulu, atau mungkin senjata perang, museum ini mengoleksi mobil-mobil tua yang otentik banget. Mobil-mobil tua dari berbagai benua seperti Eropa, Amerika, atau Asia bisa Anda temui disini. Bahkan kendaraan-kendaaran zaman baheula seperti kereta yang ditarik oleh kuda dan sapi pun ada.</p>",
+       "harga_tiket": "66.500",
+       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/museum-angkut.jpg-960x720-FIT-279aa5f7e54695814ef6cbef652183bc.jpeg",
+       "img1":"",
+    }
      ]
 }
 
