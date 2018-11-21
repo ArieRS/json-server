@@ -1,5 +1,20 @@
 {
-  "pembeli":[
-      {"id":1,"id_pembelian": "beli16", "id_pembeli": "pemb11", "tanggal_beli": "2016-10-27", "total_harga": "500000","id_tiket": "tiket11"}
+  "tempat_wisata_malang":[
+      {"id":1,
+       "nama": "Dino Park Jawa Timur Park 3", 
+       "dekripsi": "dino-park-jawa-timur-park-3", 
+       "harga_tiket": "72.500",
+       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/dino-park.jpg-960x720-FIT-92ce90db93687855900aeca2c88f15d1.jpeg"},
+     {"id":2,
+       "nama": "Jatim Park 2", 
+       "dekripsi": "Jatim Park 2", 
+       "harga_tiket": "72.500",
+       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/jatim-park-2.jpg-960x720-FIT-fd347b03aa76442cf23bf3b1547d5d37.jpeg"},
+    {"id":2,
+       "nama": "Museum Angkut", 
+       "dekripsi": "Museum Angkut", 
+       "harga_tiket": "72.500",
+       "img":"http://s3-ap-southeast-1.amazonaws.com/tvlk-prod-xxt-assets/xxt/asset/museum-angkut.jpg-960x720-FIT-279aa5f7e54695814ef6cbef652183bc.jpeg"}
      ]
 }
+
